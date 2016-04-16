@@ -1,5 +1,7 @@
 # UCL-IRDM-2016
 
+This is the code used to perform time series forecasting on the data from Kaggle's Global Energy Forecasting Competition 2012 - Load Forecasting.
+
 MLR.ipynb: The code used to run the MLR model.
 
 arima.R: The code used to run the ARIMA model.
